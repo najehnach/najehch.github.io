@@ -1,5 +1,5 @@
-# Najeh Chaabane  
-**Senior Business Analyst | Data Economist**  
+# Data Analyst
+
 Victoria, BC (Remote)  
 📞 +216 24 715 148 | ✉️ najeh.ch@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/najeh-chaabane-029b303a)
@@ -18,24 +18,30 @@ Transitioning academic economist leveraging 10+ years of advanced quantitative r
 - **Domain Expertise**: Financial markets, pricing strategies, customer behavior analysis
 
 ---
+## 🎓 Education
 
-## 💼 Professional Experience
+- **HDR – Accreditation to Supervise Research**, 2024  
+  University of Sfax, Tunisia  
 
-### Assistant Professor of Quantitative Methods  
-**University of Gafsa – Tunisia**  
-*2019 – Present*  
-- Built predictive models for crypto volatility and energy markets (Python/RStudio) to simulate business scenario outcomes.  
-- Taught 300+ students econometrics and data visualization.  
-- Published in top journals such as *Research in International Business and Finance*.
+- **PhD in Economics**, 2013  
+  University of Sousse, Tunisia  
 
-### Assistant Professor of Quantitative Methods  
-**University of Sousse – Tunisia**  
-*2014 – 2019*  
-- Designed applied statistics/econometrics curricula tied to business use cases.  
-- Conducted research on financial instability and green markets.
+- **Master’s in Applied Statistics for Management**, 2009  
+  University of Sousse, Tunisia  
+
+- **Bachelor’s in Quantitative Economics and Management**, 2006  
+  University of Monastir, Tunisia
 
 ---
 
+
+## 📜 Certifications
+
+- **Probability for Actuaries**, 2025 – *WisconsinX (edX)*  
+- **Introduction to Data Science with Python**, 2024 – *HarvardX (edX)*  
+- **Machine Learning and AI with Python**, 2024 – *HarvardX (edX)*  
+
+---
 ## 🔬 Key Research & Projects
 
 - **Climate Risk & ESG Impact**  
@@ -54,28 +60,20 @@ Transitioning academic economist leveraging 10+ years of advanced quantitative r
   Led dashboard training for students and faculty. *(University of Gafsa, 2024)*
 
 ---
+## 💼 Professional Experience
 
-## 🎓 Education
+### Assistant Professor of Quantitative Methods  
+**University of Gafsa – Tunisia**  
+*2019 – Present*  
+- Built predictive models for crypto volatility and energy markets (Python/RStudio) to simulate business scenario outcomes.  
+- Taught 300+ students econometrics and data visualization.  
+- Published in top journals such as *Research in International Business and Finance*.
 
-- **HDR – Accreditation to Supervise Research**, 2024  
-  University of Sfax, Tunisia  
-
-- **PhD in Economics**, 2013  
-  University of Sousse, Tunisia  
-
-- **Master’s in Applied Statistics for Management**, 2009  
-  University of Sousse, Tunisia  
-
-- **Bachelor’s in Quantitative Economics and Management**, 2006  
-  University of Monastir, Tunisia
-
----
-
-## 📜 Certifications
-
-- **Probability for Actuaries**, 2025 – *WisconsinX (edX)*  
-- **Introduction to Data Science with Python**, 2024 – *HarvardX (edX)*  
-- **Machine Learning and AI with Python**, 2024 – *HarvardX (edX)*  
+### Assistant Professor of Quantitative Methods  
+**University of Sousse – Tunisia**  
+*2014 – 2019*  
+- Designed applied statistics/econometrics curricula tied to business use cases.  
+- Conducted research on financial instability and green markets.
 
 ---
 
